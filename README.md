@@ -25,4 +25,4 @@ e.g. 向QQ好友10000发送消息Hello
 
 
 # 食用方法  
-该项目基于模板[khjxiaogu/MiraiPluginExample](https://github.com/khjxiaogu/MiraiPluginExample)改造。  
+该项目基于模板[khjxiaogu/MiraiPluginTemplate](https://github.com/khjxiaogu/MiraiPluginTemplate)改造。  
