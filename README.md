@@ -3,8 +3,9 @@ maven + java ~~gradle + kotlin~~
 备忘，防止一段时间后又要重新翻一遍文档。  
 只需`mvn clean package`将生成的jar包放到mcl的`plugins`文件夹下即可。  
 以下为测试过的核心依赖版本：  
-mirai-core: 2.1.0
-mirai-console: 2.12.0
+mirai-core: 2.12.0    
+mirai-console: 2.12.0    
+Mirai Console Loader version 2.1.0-71ec418
 
 # 实现功能  
 + 好友输入命令/music，将返回固定写死的音乐分享
